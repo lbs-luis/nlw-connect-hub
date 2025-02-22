@@ -4,15 +4,15 @@ Este repositório serve como um hub para os componentes principais projeto desen
 
 <br/>
 
-- [![Static Badge](https://img.shields.io/badge/queue--ws--app-black?style=for-the-badge&logo=next.js&logoColor=white&labelColor=blue)](https://github.com/lbs-luis/queue-ws-app)
+- [![Static Badge](https://img.shields.io/badge/nlw--connect--react-black?style=for-the-badge&logo=next.js&logoColor=white&labelColor=blue)](https://github.com/lbs-luis/nlw-connect-react)
   <br/>
-  Aplicativo web desenvolvido com **Next.js**, **TypeScript** e **socket.io-client**.
+  Aplicação web desenvolvida com **Next.js** e **TypeScript**
 
   <br/>
 
 - [![Static Badge](https://img.shields.io/badge/nlw--connect--nodejs-black?style=for-the-badge&logo=node.js&logoColor=white&labelColor=6CC24A)](https://github.com/lbs-luis/nlw-connect-node)
   <br/>
-  Servidor backend construído com **NodeJs**.
+  Aplicação backend construída com **NodeJs**.
 
   <br/>
 
